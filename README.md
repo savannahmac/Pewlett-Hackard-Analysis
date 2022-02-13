@@ -36,11 +36,14 @@ identifying potential promotions in their departments a top priority.
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett-Hackard employees? Simply put, yes. Each department has over 1000 retirement-ready employees who are eligible to mentor the next generation of employees. 
 This query returned the number of retirees in each department. 
 
+![count by dept](https://user-images.githubusercontent.com/93888037/153743786-965e6bb2-ded3-417b-beaa-6703adbee8ab.png)
+
 
 Looking at this table, we can see that additional support may be required in Marketing, Finance, Human Resources, Quality Management, Research, and Customer Service. Each of these departments have under 3,000 retirement-ready employees.
 However, the Production, Development, and Sales Departments are extremely well-equipped to mentor their next generation of employees. 
 
 ### 3. Retiring Managers
 There are only two retirement-ready managers at Pewlett-Hackard. They are Hauke Zhang (Sales) and Hilary Kambil (Research). Specific attention should be paid to the transition in these two departments.
+![retiring managers](https://user-images.githubusercontent.com/93888037/153743821-3f351f94-b0d1-492a-8ac6-9d1eab920f46.png)
 
  
